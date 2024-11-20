@@ -42,6 +42,7 @@ header {
             display: flex;
             align-items: center;
             font-size: 15px;
+            color: #fff;
           }
           
           button:hover {
@@ -176,7 +177,6 @@ header {
     .nav-cta {
       a {
           text-decoration: none;
-          color: $secondary;
           button {
             cursor: pointer;
             font-weight: 700;
@@ -188,6 +188,7 @@ header {
             display: flex;
             align-items: center;
             font-size: 15px;
+            color: #fff;
           }
           
           button:hover {

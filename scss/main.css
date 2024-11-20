@@ -743,6 +743,7 @@ footer h3 {
   justify-content: center;
   font-size: 15px;
   width: 16rem;
+  color: #ffffff;
 }
 #hero #content #cta #shop-btn a button:hover {
   background: #0B409C;
@@ -776,7 +777,6 @@ footer h3 {
   justify-content: center;
   flex-direction: column;
   width: 100vw;
-  padding: 20px;
 }
 #partners h1 {
   display: flex;
